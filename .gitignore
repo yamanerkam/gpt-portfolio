@@ -42,3 +42,6 @@ testem.log
 Thumbs.db
 
 .prettierrc.json
+src/environments/environment.ts
+.gitignore
+src/environments/environment.prod.ts
