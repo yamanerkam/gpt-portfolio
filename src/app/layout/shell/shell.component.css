@@ -1,0 +1,17 @@
+.shell-grid {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+    grid-template-rows: 1fr;
+    min-height: 80vh;
+}
+
+.shell-grid * {
+    border: 1px solid black;
+    height: 100%;
+    background: lightblue
+}
+
+.header {
+    background: lightblue;
+    border: 1px solid black;
+}
